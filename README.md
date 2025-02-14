@@ -1,0 +1,23 @@
+                                                  The Guess the Shape Game
+
+About Guess the Shape Game
+Guess the Shape Game is an interactive web game where players 
+try to identify randomly displayed shapes, such as circles, squares,
+ or triangles. The game is built entirely with HTML, CSS, and JavaScript, 
+without the use of external libraries or frameworks. Players input their
+ guesses through text fields, buttons, or other interactive elements, 
+and the game provides immediate feedback on whether the guess is correct.
+ A score tracker keeps track of progress, and the shapes are displayed dynamically,
+ often using the HTML5 Canvas or styled elements. 
+This project is a great way to learn and practice core JavaScript concepts like DOM manipulation, 
+event handling, and logic implementation while creating an engaging and visually appealing experience.
+===================================
+Guess the Shape Game using HTML & CSS in JavaScript, with Source Code Features
+Random Shape Display
+The game randomly displays a geometric shape (e.g., circle, square, triangle) or provides a description of the shape.
+Input and Validation
+Players type their guesses into an input box, and the app checks for correctness.
+Scoring System
+Players earn points for correct guesses, with a total score displayed.
+
+================================================
